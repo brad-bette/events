@@ -1,8 +1,8 @@
-# Events, 
+# Events
 ### Ver: 1.2
 Events Displays important dates according to the specific month. If there are no arguments, the current month will be used.
 
-The month may be specified as a 3 letter month name, such as Jun or Apr. The months are case sensitive, however you can capitalize the first letter. A full list of months are displayed bellow under *Months*.
+The month may be specified as a 3 letter month name, such as Jun or Apr. The months are case sensitive, however you can capitalize the first letter. A full list of months are displayed bellow under **Months**.
 
 There a special color codes that you can customize your date file with, see **Codes** for more information.
 
@@ -61,3 +61,5 @@ There are only 2 optional flags. `-h or --help`. Both provide a man page style h
 make
 sudo make install
 ```
+## Example
+![Demo](https://raw.githubusercontent.com/brad-bette/events/main/events-demo.gif)
