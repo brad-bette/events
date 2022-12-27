@@ -1,0 +1,10 @@
+# This is a demo, add your own events :)
+Nov   1st,_This_Day
+Dec   23rd,_Festivus!
+Aug   4th_Red_*R*
+Aug   3rd_White_*BL*
+Aug   2nd_&_Blue_*B*
+May   5th,_Cinco_De_Mayo
+Feb   29th,_This_is_a_leap_year_day
+Jul   4th,_4th_of_july_*BL*
+Oct   31st,_Halloween_*Y*
